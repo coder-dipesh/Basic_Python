@@ -1,0 +1,20 @@
+Git Commands
+---------------------------
+ clone--> Bring a repository that is hosted somewhere like github into a foder on your local machine.
+ add--> Track your files and changes in Git
+ commit--> save your files in git 
+ push--> uploads git commit to a remote repo, like github
+ pull-->download changes for remote repo to your local machine, the opposite of push
+ 
+
+
+Repository->(repo)
+
+.md --> mark down --> To read me file
+ 
+ 
+
+
+
+
+
