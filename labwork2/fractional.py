@@ -1,12 +1,14 @@
 '''
+
 Que.7: Given a positive real number. print its fractional part.
+
 '''
+import math
 
-number=float(input('Enter number to get its fractional part: '))
 
-integePart=int(number)
+number = float(input('Enter number to get its fractional part: '))
+floatt,integerr = math.modf(number)
 
-fractional_part= number-integePart
 
-print(integePart)
-# print(f'{fractional_part} is the fractional part of given number.'
+print(f'{floatt} is the fractional part of given number.')
+
